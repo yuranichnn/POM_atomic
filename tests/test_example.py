@@ -1,5 +1,3 @@
-import time
-
 from base.base_test import BaseTest
 
 class TestExample(BaseTest):
